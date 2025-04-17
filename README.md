@@ -23,6 +23,6 @@ COMPONENTS NEEDED:
 
 <img width="799" alt="Screenshot 2025-04-17 at 12 33 48 AM" src="https://github.com/user-attachments/assets/b8b03d94-094e-44ef-ad79-d83faa43d43e" />
 
-
+<br>
 
 PCB design licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
