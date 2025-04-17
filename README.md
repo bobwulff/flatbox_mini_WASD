@@ -21,8 +21,7 @@ COMPONENTS NEEDED:
 
 <br>
 
-<img width="888" alt="Screenshot 2025-04-17 at 1 04 17 AM" src="https://github.com/user-attachments/assets/6ffb0195-fd4d-43f1-aaae-8d2b6313586d" />
-
+<img width="1266" alt="Screenshot 2025-04-17 at 1 08 53 AM" src="https://github.com/user-attachments/assets/2580d5c4-9dfc-4303-9fbf-424578372c4c" />
 
 <br>
 
