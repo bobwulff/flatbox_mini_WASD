@@ -10,10 +10,10 @@ COMPONENTS NEEDED:
 
 | Component | Link |
 | ------------- | ------------- |
-| RP2040 Zero | [Aliexpress](https://www.aliexpress.us/item/3256807041288591.html) |
-| 6x6x11 Tactile Push Button Switches | [Aliexpress](https://www.aliexpress.us/item/2251832725948381.html) |
-| Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://www.aliexpress.us/item/3256803389452947.html) |
-| Kailh Low Profile Choc Switches | [Aliexpress](https://www.aliexpress.us/item/3256805260407528.html) |
+| RP2040 Zero | [Aliexpress](https://s.click.aliexpress.com/e/_okoF943) |
+| 6x6x11 Tactile Push Button Switches | [Aliexpress](https://s.click.aliexpress.com/e/_ok0aIbH) |
+| Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://s.click.aliexpress.com/e/_oFkTKZv) |
+| Kailh Low Profile Choc Switches | [Aliexpress](https://s.click.aliexpress.com/e/_opeXaZt) |
 | WASD Keycaps | [Amazon](https://amzn.to/42BwSVh) |
 | Snackbox Keycaps (OPTIONAL) | [Junkfood Arcades](https://junkfoodarcades.com/products/micro-concave-keycaps) |
 | Heat Threaded Inserts | [Amazon](https://amzn.to/3Rn92r1) |
