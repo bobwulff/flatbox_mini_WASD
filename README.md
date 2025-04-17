@@ -8,7 +8,7 @@ For firmware please refer to [GP2040-CE](https://gp2040-ce.info/)
 
 COMPONENTS NEEDED:
 
-| Componenet | Link |
+| Component | Link |
 | ------------- | ------------- |
 | RP2040 Zero | [Aliexpress](https://www.aliexpress.us/item/3256807041288591.html) |
 | 6x6x11 Tactile Push Button Switches | [Aliexpress](https://www.aliexpress.us/item/2251832725948381.html) |
