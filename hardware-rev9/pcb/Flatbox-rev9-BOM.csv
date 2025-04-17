@@ -1,7 +1,0 @@
-"Reference","Value","Footprint","LCSC"
-"C1,C2,C3,C4","1u","Capacitor_SMD:C_0402_1005Metric","C52923"
-"R6,R7","5.1k","Resistor_SMD:R_0402_1005Metric","C25905"
-"SW19","SW_Push","SW:C318884","C318884"
-"U1","ATSAMD21E18A-M","QFN32:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias","C2052801"
-"U2","TLV73333PDBV","SOT-23-5:SOT-23-5","C134139"
-"USB1","HRO-TYPE-C-31-M-12","Type-C:HRO-TYPE-C-31-M-12-Assembly","C165948"
