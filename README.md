@@ -4,7 +4,7 @@ This is a fork of the [Flatbox rev5](https://github.com/jfedor2/flatbox/tree/mas
 
 For firmware please refer to [GP2040-CE](https://gp2040-ce.info/)
 
-![Sequence 01 00_00_25_18 Still001](https://github.com/user-attachments/assets/f3147dd6-3761-4f85-8749-75ed90e4f802)
+![Sequence 01 00_00_25_18 Still001](https://github.com/user-attachments/assets/91bf91e8-aade-497e-bb4d-1eabcf16b371)
 
 COMPONENTS NEEDED:
 
@@ -21,7 +21,7 @@ COMPONENTS NEEDED:
 
 <br>
 
-<img width="799" alt="Screenshot 2025-04-17 at 12 33 48 AM" src="https://github.com/user-attachments/assets/b8b03d94-094e-44ef-ad79-d83faa43d43e" />
+<img width="799" alt="Screenshot 2025-04-17 at 12 33 48 AM" src="https://github.com/user-attachments/assets/2b00d6bc-22d1-403c-97a6-fb21236f1e70" />
 
 <br>
 
