@@ -16,8 +16,8 @@ COMPONENTS NEEDED:
 | Kailh Low Profile Choc Switches | [Aliexpress](https://s.click.aliexpress.com/e/_opeXaZt) |
 | WASD Keycaps | [Amazon](https://amzn.to/42BwSVh) |
 | Snackbox Keycaps (OPTIONAL) | [Junkfood Arcades](https://junkfoodarcades.com/products/micro-concave-keycaps) |
-| Heat Threaded Inserts | [Amazon](https://amzn.to/3Rn92r1) |
-| M2x4 and M2x10 screws | [Amazon](https://amzn.to/3GeJXMA) |
+| Heat Threaded Inserts (for 3D prints) | [Amazon](https://amzn.to/3Rn92r1) |
+| M2 screws (varies per project) | [Amazon](https://amzn.to/3GeJXMA) |
 
 <br>
 
