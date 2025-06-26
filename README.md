@@ -2,7 +2,7 @@
 
 This is a fork of the [Flatbox rev5](https://github.com/jfedor2/flatbox/tree/master/hardware-rev5). This was originally created for the Lenovo Legion Clam project.
 
-For firmware please refer to [GP2040-CE](https://gp2040-ce.info/)
+For firmware please refer to [GP2040-CE](https://gp2040-ce.info/). Under downloads, find Flatbox Rev5 and download the firmware. You may need to remap the home and share buttons. 
 
 ![Sequence 01 00_00_25_18 Still001](https://github.com/user-attachments/assets/91bf91e8-aade-497e-bb4d-1eabcf16b371)
 
